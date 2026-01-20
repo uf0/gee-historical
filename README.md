@@ -52,7 +52,7 @@ Key arguments exposed by `gee.py`:
 Example command:
 
 ```
-python gee.py \
+python getHistorical.py \
   --project dae-2026 \
   --dataset sentinel \
   --interval month \
